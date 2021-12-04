@@ -1,0 +1,21 @@
+{
+  "name": "telegraf-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "firebase": "^9.5.0",
+    "firebase-admin": "^10.0.0",
+    "morgan": "^1.10.0",
+    "telegraf": "^4.4.2"
+  }
+}
