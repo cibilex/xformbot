@@ -1,0 +1,28 @@
+{
+  "name": "xformbot",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.12.1",
+    "axios": "^0.24.0",
+    "css-houdini-voronoi": "^1.1.5",
+    "css-paint-polyfill": "^3.3.0",
+    "dom-to-image": "^2.6.0",
+    "firebase": "^9.6.0",
+    "quasar": "^2.3.3",
+    "swiper": "^7.3.1",
+    "vue": "^3.2.16",
+    "vue-router": "^4.0.12"
+  },
+  "devDependencies": {
+    "@quasar/vite-plugin": "^1.0.2",
+    "@vitejs/plugin-vue": "^1.9.3",
+    "fantasticon": "^1.2.3",
+    "sass": "^1.32.0",
+    "vite": "^2.6.4"
+  }
+}

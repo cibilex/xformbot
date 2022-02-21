@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Metal+Mania&family=Oregano&family=Righteous&family=Roboto+Slab:wght@300&family=Tourney&display=swap');
+/* 
+font-family: 'EB Garamond', serif;
+font-family: 'Metal Mania', cursive;
+font-family: 'Oregano', cursive;
+font-family: 'Righteous', cursive;
+font-family: 'Roboto Slab', serif;
+font-family: 'Tourney', cursive;
+ */
+*{
+    padding:0px; margin:0px;box-sizing: border-box;
+}
+@media screen and (max-width: 1023px) {
+    html {
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 715px) {
+    html {
+        font-size: 8px;
+    }
+}
+
+

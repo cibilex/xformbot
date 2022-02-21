@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "icons";
+    src: url("./icons.woff?7531246fde4f4ed4a2e3ad06ce790ca3") format("woff"),
+url("./icons.woff2?7531246fde4f4ed4a2e3ad06ce790ca3") format("woff2");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: icons !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fa-facebook-brands:before {
+    content: "\f101";
+}
+.icon-fa-linkedin-brands:before {
+    content: "\f102";
+}
+.icon-fa-telegram-brands:before {
+    content: "\f103";
+}
+.icon-fa-twitter-square-brands:before {
+    content: "\f104";
+}
+.icon-fa-whatsapp-brands:before {
+    content: "\f105";
+}
+.icon-fa-whatsapp-square-brands:before {
+    content: "\f106";
+}

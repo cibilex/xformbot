@@ -1,0 +1,974 @@
+[
+  {
+    "country": "Luxembourg",
+    "medianIncome": 26321,
+    "meanIncome": 31376,
+    "pop2021": "634.8140"
+  },
+  {
+    "country": "United Arab Emirates",
+    "medianIncome": 24292,
+    "meanIncome": 27017,
+    "pop2021": "9991.0890"
+  },
+  {
+    "country": "Norway",
+    "medianIncome": 22684,
+    "meanIncome": 25272,
+    "pop2021": "5465.6300"
+  },
+  {
+    "country": "Switzerland",
+    "medianIncome": 21490,
+    "meanIncome": 25787,
+    "pop2021": "8715.4940"
+  },
+  {
+    "country": "United States",
+    "medianIncome": 19306,
+    "meanIncome": 25332,
+    "pop2021": "332915.0730"
+  },
+  {
+    "country": "Canada",
+    "medianIncome": 18652,
+    "meanIncome": 22042,
+    "pop2021": "38067.9030"
+  },
+  {
+    "country": "Austria",
+    "medianIncome": 18405,
+    "meanIncome": 20718,
+    "pop2021": "9043.0700"
+  },
+  {
+    "country": "Sweden",
+    "medianIncome": 17625,
+    "meanIncome": 20193,
+    "pop2021": "10160.1690"
+  },
+  {
+    "country": "Denmark",
+    "medianIncome": 17432,
+    "meanIncome": 20304,
+    "pop2021": "5813.2980"
+  },
+  {
+    "country": "Netherlands",
+    "medianIncome": 17154,
+    "meanIncome": 19690,
+    "pop2021": "17173.0990"
+  },
+  {
+    "country": "Australia",
+    "medianIncome": 17076,
+    "meanIncome": 21329,
+    "pop2021": "25788.2150"
+  },
+  {
+    "country": "Iceland",
+    "medianIncome": 17017,
+    "meanIncome": 19300,
+    "pop2021": "343.3530"
+  },
+  {
+    "country": "Germany",
+    "medianIncome": 16845,
+    "meanIncome": 19730,
+    "pop2021": "83900.4730"
+  },
+  {
+    "country": "France",
+    "medianIncome": 16372,
+    "meanIncome": 19409,
+    "pop2021": "65426.1790"
+  },
+  {
+    "country": "Finland",
+    "medianIncome": 16332,
+    "meanIncome": 18742,
+    "pop2021": "5548.3600"
+  },
+  {
+    "country": "Belgium",
+    "medianIncome": 16157,
+    "meanIncome": 17917,
+    "pop2021": "11632.3260"
+  },
+  {
+    "country": "United Kingdom",
+    "medianIncome": 14793,
+    "meanIncome": 18133,
+    "pop2021": "68207.1160"
+  },
+  {
+    "country": "Malta",
+    "medianIncome": 14543,
+    "meanIncome": 16509,
+    "pop2021": "442.7840"
+  },
+  {
+    "country": "Ireland",
+    "medianIncome": 14520,
+    "meanIncome": 17938,
+    "pop2021": "4982.9070"
+  },
+  {
+    "country": "Japan",
+    "medianIncome": 14255,
+    "meanIncome": 17095,
+    "pop2021": "126050.8040"
+  },
+  {
+    "country": "Taiwan",
+    "medianIncome": 13605,
+    "meanIncome": 16355,
+    "pop2021": "23855.0100"
+  },
+  {
+    "country": "Italy",
+    "medianIncome": 13170,
+    "meanIncome": 15547,
+    "pop2021": "60367.4770"
+  },
+  {
+    "country": "Cyprus",
+    "medianIncome": 13053,
+    "meanIncome": 15663,
+    "pop2021": "1215.5840"
+  },
+  {
+    "country": "South Korea",
+    "medianIncome": 12507,
+    "meanIncome": 14316,
+    "pop2021": "51305.1860"
+  },
+  {
+    "country": "Slovenia",
+    "medianIncome": 11878,
+    "meanIncome": 13056,
+    "pop2021": "2078.7240"
+  },
+  {
+    "country": "Spain",
+    "medianIncome": 11786,
+    "meanIncome": 13822,
+    "pop2021": "46745.2160"
+  },
+  {
+    "country": "Israel",
+    "medianIncome": 10866,
+    "meanIncome": 13271,
+    "pop2021": "8789.7740"
+  },
+  {
+    "country": "Estonia",
+    "medianIncome": 10651,
+    "meanIncome": 12540,
+    "pop2021": "1325.1850"
+  },
+  {
+    "country": "Czech Republic",
+    "medianIncome": 10046,
+    "meanIncome": 11394,
+    "pop2021": "10724.5550"
+  },
+  {
+    "country": "Poland",
+    "medianIncome": 8885,
+    "meanIncome": 10155,
+    "pop2021": "37797.0050"
+  },
+  {
+    "country": "Portugal",
+    "medianIncome": 8439,
+    "meanIncome": 10316,
+    "pop2021": "10167.9250"
+  },
+  {
+    "country": "Lithuania",
+    "medianIncome": 8267,
+    "meanIncome": 10479,
+    "pop2021": "2689.8620"
+  },
+  {
+    "country": "Slovakia",
+    "medianIncome": 7991,
+    "meanIncome": 8408,
+    "pop2021": "5460.7210"
+  },
+  {
+    "country": "Latvia",
+    "medianIncome": 7971,
+    "meanIncome": 9727,
+    "pop2021": "1866.9420"
+  },
+  {
+    "country": "Lebanon",
+    "medianIncome": 7712,
+    "meanIncome": 9091,
+    "pop2021": "6769.1460"
+  },
+  {
+    "country": "Hungary",
+    "medianIncome": 7684,
+    "meanIncome": 8613,
+    "pop2021": "9634.1640"
+  },
+  {
+    "country": "Uruguay",
+    "medianIncome": 7533,
+    "meanIncome": 9888,
+    "pop2021": "3485.1510"
+  },
+  {
+    "country": "Malaysia",
+    "medianIncome": 7512,
+    "meanIncome": 10200,
+    "pop2021": "32776.1940"
+  },
+  {
+    "country": "Croatia",
+    "medianIncome": 7196,
+    "meanIncome": 8008,
+    "pop2021": "4081.6510"
+  },
+  {
+    "country": "Greece",
+    "medianIncome": 6936,
+    "meanIncome": 8131,
+    "pop2021": "10370.7440"
+  },
+  {
+    "country": "Belarus",
+    "medianIncome": 6507,
+    "meanIncome": 7359,
+    "pop2021": "9442.8620"
+  },
+  {
+    "country": "Chile",
+    "medianIncome": 6293,
+    "meanIncome": 9304,
+    "pop2021": "19212.3610"
+  },
+  {
+    "country": "Panama",
+    "medianIncome": 6254,
+    "meanIncome": 9453,
+    "pop2021": "4381.5790"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "medianIncome": 5925,
+    "meanIncome": 7131,
+    "pop2021": "3263.4660"
+  },
+  {
+    "country": "Bulgaria",
+    "medianIncome": 5696,
+    "meanIncome": 7474,
+    "pop2021": "6896.6630"
+  },
+  {
+    "country": "Russia",
+    "medianIncome": 5504,
+    "meanIncome": 7275,
+    "pop2021": "145912.0250"
+  },
+  {
+    "country": "Costa Rica",
+    "medianIncome": 5457,
+    "meanIncome": 8440,
+    "pop2021": "5139.0520"
+  },
+  {
+    "country": "Maldives",
+    "medianIncome": 5409,
+    "meanIncome": 6435,
+    "pop2021": "543.6170"
+  },
+  {
+    "country": "Argentina",
+    "medianIncome": 5319,
+    "meanIncome": 6935,
+    "pop2021": "45605.8260"
+  },
+  {
+    "country": "Seychelles",
+    "medianIncome": 5314,
+    "meanIncome": 8044,
+    "pop2021": "98.9080"
+  },
+  {
+    "country": "Turkey",
+    "medianIncome": 5251,
+    "meanIncome": 7267,
+    "pop2021": "85042.7380"
+  },
+  {
+    "country": "Romania",
+    "medianIncome": 5206,
+    "meanIncome": 5949,
+    "pop2021": "19127.7740"
+  },
+  {
+    "country": "Brazil",
+    "medianIncome": 4559,
+    "meanIncome": 7654,
+    "pop2021": "213993.4370"
+  },
+  {
+    "country": "Saint Lucia",
+    "medianIncome": 4519,
+    "meanIncome": 6946,
+    "pop2021": "184.4000"
+  },
+  {
+    "country": "Ukraine",
+    "medianIncome": 4434,
+    "meanIncome": 5010,
+    "pop2021": "43466.8190"
+  },
+  {
+    "country": "Serbia",
+    "medianIncome": 4416,
+    "meanIncome": 5252,
+    "pop2021": "8697.5500"
+  },
+  {
+    "country": "Iran",
+    "medianIncome": 4360,
+    "meanIncome": 5924,
+    "pop2021": "85028.7590"
+  },
+  {
+    "country": "Thailand",
+    "medianIncome": 4356,
+    "meanIncome": 5670,
+    "pop2021": "69950.8500"
+  },
+  {
+    "country": "Paraguay",
+    "medianIncome": 4334,
+    "meanIncome": 6373,
+    "pop2021": "7219.6380"
+  },
+  {
+    "country": "Montenegro",
+    "medianIncome": 4193,
+    "meanIncome": 5123,
+    "pop2021": "628.0530"
+  },
+  {
+    "country": "Dominican Republic",
+    "medianIncome": 4060,
+    "meanIncome": 5873,
+    "pop2021": "10953.7030"
+  },
+  {
+    "country": "North Macedonia",
+    "medianIncome": 3857,
+    "meanIncome": 4279,
+    "pop2021": "2082.6580"
+  },
+  {
+    "country": "Mauritius",
+    "medianIncome": 3832,
+    "meanIncome": 4969,
+    "pop2021": "1273.4330"
+  },
+  {
+    "country": "Peru",
+    "medianIncome": 3678,
+    "meanIncome": 4977,
+    "pop2021": "33359.4180"
+  },
+  {
+    "country": "Kazakhstan",
+    "medianIncome": 3661,
+    "meanIncome": 4313,
+    "pop2021": "18994.9620"
+  },
+  {
+    "country": "Bolivia",
+    "medianIncome": 3631,
+    "meanIncome": 4787,
+    "pop2021": "11832.9400"
+  },
+  {
+    "country": "Ecuador",
+    "medianIncome": 3525,
+    "meanIncome": 5046,
+    "pop2021": "17888.4750"
+  },
+  {
+    "country": "Tunisia",
+    "medianIncome": 3366,
+    "meanIncome": 4076,
+    "pop2021": "11935.7660"
+  },
+  {
+    "country": "Mexico",
+    "medianIncome": 3315,
+    "meanIncome": 4929,
+    "pop2021": "130262.2160"
+  },
+  {
+    "country": "Colombia",
+    "medianIncome": 3259,
+    "meanIncome": 5201,
+    "pop2021": "51265.8440"
+  },
+  {
+    "country": "Azerbaijan",
+    "medianIncome": 3193,
+    "meanIncome": 3851,
+    "pop2021": "10223.3420"
+  },
+  {
+    "country": "Jordan",
+    "medianIncome": 3185,
+    "meanIncome": 4025,
+    "pop2021": "10269.0210"
+  },
+  {
+    "country": "Vietnam",
+    "medianIncome": 3149,
+    "meanIncome": 3881,
+    "pop2021": "98168.8330"
+  },
+  {
+    "country": "Moldova",
+    "medianIncome": 3133,
+    "meanIncome": 3590,
+    "pop2021": "4024.0190"
+  },
+  {
+    "country": "El Salvador",
+    "medianIncome": 3095,
+    "meanIncome": 3989,
+    "pop2021": "6518.4990"
+  },
+  {
+    "country": "Jamaica",
+    "medianIncome": 2899,
+    "meanIncome": 4429,
+    "pop2021": "2973.4630"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "medianIncome": 2868,
+    "meanIncome": 3711,
+    "pop2021": "1403.3750"
+  },
+  {
+    "country": "Mongolia",
+    "medianIncome": 2800,
+    "meanIncome": 3409,
+    "pop2021": "3329.2890"
+  },
+  {
+    "country": "Tonga",
+    "medianIncome": 2782,
+    "meanIncome": 3677,
+    "pop2021": "106.7600"
+  },
+  {
+    "country": "Gabon",
+    "medianIncome": 2779,
+    "meanIncome": 3544,
+    "pop2021": "2278.8250"
+  },
+  {
+    "country": "Morocco",
+    "medianIncome": 2716,
+    "meanIncome": 3721,
+    "pop2021": "37344.7950"
+  },
+  {
+    "country": "Venezuela",
+    "medianIncome": 2710,
+    "meanIncome": 3741,
+    "pop2021": "28704.9540"
+  },
+  {
+    "country": "Nicaragua",
+    "medianIncome": 2697,
+    "meanIncome": 3913,
+    "pop2021": "6702.3850"
+  },
+  {
+    "country": "Algeria",
+    "medianIncome": 2612,
+    "meanIncome": 2996,
+    "pop2021": "44616.6240"
+  },
+  {
+    "country": "Albania",
+    "medianIncome": 2578,
+    "meanIncome": 3141,
+    "pop2021": "2872.9330"
+  },
+  {
+    "country": "Samoa",
+    "medianIncome": 2537,
+    "meanIncome": 3418,
+    "pop2021": "200.1490"
+  },
+  {
+    "country": "Fiji",
+    "medianIncome": 2460,
+    "meanIncome": 3261,
+    "pop2021": "902.9060"
+  },
+  {
+    "country": "Bhutan",
+    "medianIncome": 2446,
+    "meanIncome": 3189,
+    "pop2021": "779.8980"
+  },
+  {
+    "country": "Sri Lanka",
+    "medianIncome": 2277,
+    "meanIncome": 3162,
+    "pop2021": "21497.3100"
+  },
+  {
+    "country": "Georgia",
+    "medianIncome": 2273,
+    "meanIncome": 2814,
+    "pop2021": "3979.7650"
+  },
+  {
+    "country": "Armenia",
+    "medianIncome": 2216,
+    "meanIncome": 2810,
+    "pop2021": "2968.1270"
+  },
+  {
+    "country": "Tuvalu",
+    "medianIncome": 2099,
+    "meanIncome": 2802,
+    "pop2021": "11.9310"
+  },
+  {
+    "country": "Guatemala",
+    "medianIncome": 2036,
+    "meanIncome": 3103,
+    "pop2021": "18249.8600"
+  },
+  {
+    "country": "Guyana",
+    "medianIncome": 2003,
+    "meanIncome": 2729,
+    "pop2021": "790.3260"
+  },
+  {
+    "country": "Syria",
+    "medianIncome": 1996,
+    "meanIncome": 2606,
+    "pop2021": "18275.7020"
+  },
+  {
+    "country": "Tajikistan",
+    "medianIncome": 1994,
+    "meanIncome": 2437,
+    "pop2021": "9749.6270"
+  },
+  {
+    "country": "Namibia",
+    "medianIncome": 1962,
+    "meanIncome": 4023,
+    "pop2021": "2587.3440"
+  },
+  {
+    "country": "Honduras",
+    "medianIncome": 1959,
+    "meanIncome": 3109,
+    "pop2021": "10062.9910"
+  },
+  {
+    "country": "Iraq",
+    "medianIncome": 1951,
+    "meanIncome": 2293,
+    "pop2021": "41179.3500"
+  },
+  {
+    "country": "Belize",
+    "medianIncome": 1927,
+    "meanIncome": 3246,
+    "pop2021": "404.9140"
+  },
+  {
+    "country": "Myanmar",
+    "medianIncome": 1909,
+    "meanIncome": 2296,
+    "pop2021": "54806.0120"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "medianIncome": 1892,
+    "meanIncome": 2235,
+    "pop2021": "6628.3560"
+  },
+  {
+    "country": "Ghana",
+    "medianIncome": 1779,
+    "meanIncome": 2422,
+    "pop2021": "31732.1290"
+  },
+  {
+    "country": "Mauritania",
+    "medianIncome": 1760,
+    "meanIncome": 2094,
+    "pop2021": "4775.1190"
+  },
+  {
+    "country": "Suriname",
+    "medianIncome": 1659,
+    "meanIncome": 2593,
+    "pop2021": "591.8000"
+  },
+  {
+    "country": "South Africa",
+    "medianIncome": 1624,
+    "meanIncome": 4081,
+    "pop2021": "60041.9940"
+  },
+  {
+    "country": "Botswana",
+    "medianIncome": 1596,
+    "meanIncome": 2907,
+    "pop2021": "2397.2410"
+  },
+  {
+    "country": "Philippines",
+    "medianIncome": 1581,
+    "meanIncome": 2199,
+    "pop2021": "111046.9130"
+  },
+  {
+    "country": "Kiribati",
+    "medianIncome": 1489,
+    "meanIncome": 1858,
+    "pop2021": "121.3920"
+  },
+  {
+    "country": "Egypt",
+    "medianIncome": 1485,
+    "meanIncome": 1847,
+    "pop2021": "104258.3270"
+  },
+  {
+    "country": "Micronesia",
+    "medianIncome": 1413,
+    "meanIncome": 1858,
+    "pop2021": "116.2540"
+  },
+  {
+    "country": "Djibouti",
+    "medianIncome": 1403,
+    "meanIncome": 1869,
+    "pop2021": "1002.1870"
+  },
+  {
+    "country": "Comoros",
+    "medianIncome": 1401,
+    "meanIncome": 2050,
+    "pop2021": "888.4510"
+  },
+  {
+    "country": "Pakistan",
+    "medianIncome": 1399,
+    "meanIncome": 1797,
+    "pop2021": "225199.9370"
+  },
+  {
+    "country": "Gambia",
+    "medianIncome": 1383,
+    "meanIncome": 1784,
+    "pop2021": "2486.9450"
+  },
+  {
+    "country": "Vanuatu",
+    "medianIncome": 1379,
+    "meanIncome": 1781,
+    "pop2021": "314.4640"
+  },
+  {
+    "country": "Sudan",
+    "medianIncome": 1277,
+    "meanIncome": 1592,
+    "pop2021": "44909.3530"
+  },
+  {
+    "country": "Cameroon",
+    "medianIncome": 1245,
+    "meanIncome": 1841,
+    "pop2021": "27224.2650"
+  },
+  {
+    "country": "Haiti",
+    "medianIncome": 1162,
+    "meanIncome": 1540,
+    "pop2021": "11541.6850"
+  },
+  {
+    "country": "Lesotho",
+    "medianIncome": 1157,
+    "meanIncome": 1659,
+    "pop2021": "2159.0790"
+  },
+  {
+    "country": "Nepal",
+    "medianIncome": 1155,
+    "meanIncome": 1428,
+    "pop2021": "29674.9200"
+  },
+  {
+    "country": "Yemen",
+    "medianIncome": 1150,
+    "meanIncome": 1503,
+    "pop2021": "30490.6400"
+  },
+  {
+    "country": "Bangladesh",
+    "medianIncome": 1131,
+    "meanIncome": 1414,
+    "pop2021": "166303.4980"
+  },
+  {
+    "country": "Eswatini",
+    "medianIncome": 1097,
+    "meanIncome": 2091,
+    "pop2021": "1172.3620"
+  },
+  {
+    "country": "Laos",
+    "medianIncome": 1065,
+    "meanIncome": 1389,
+    "pop2021": "7379.3580"
+  },
+  {
+    "country": "Solomon Islands",
+    "medianIncome": 1028,
+    "meanIncome": 1333,
+    "pop2021": "703.9960"
+  },
+  {
+    "country": "Ivory Coast",
+    "medianIncome": 987,
+    "meanIncome": 1358,
+    "pop2021": "27053.6290"
+  },
+  {
+    "country": "Timor-Leste",
+    "medianIncome": 970,
+    "meanIncome": 1147,
+    "pop2021": "1343.8730"
+  },
+  {
+    "country": "Zimbabwe",
+    "medianIncome": 932,
+    "meanIncome": 1429,
+    "pop2021": "15092.1710"
+  },
+  {
+    "country": "Ethiopia",
+    "medianIncome": 907,
+    "meanIncome": 1107,
+    "pop2021": "117876.2270"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "medianIncome": 901,
+    "meanIncome": 1620,
+    "pop2021": "223.3680"
+  },
+  {
+    "country": "Republic of the Congo",
+    "medianIncome": 892,
+    "meanIncome": 1375,
+    "pop2021": "5657.0130"
+  },
+  {
+    "country": "Chad",
+    "medianIncome": 880,
+    "meanIncome": 1182,
+    "pop2021": "16914.9850"
+  },
+  {
+    "country": "Papua New Guinea",
+    "medianIncome": 876,
+    "meanIncome": 1162,
+    "pop2021": "9119.0100"
+  },
+  {
+    "country": "Kenya",
+    "medianIncome": 874,
+    "meanIncome": 1197,
+    "pop2021": "54985.6980"
+  },
+  {
+    "country": "Senegal",
+    "medianIncome": 844,
+    "meanIncome": 1137,
+    "pop2021": "17196.3010"
+  },
+  {
+    "country": "Guinea",
+    "medianIncome": 843,
+    "meanIncome": 1036,
+    "pop2021": "13497.2440"
+  },
+  {
+    "country": "Nigeria",
+    "medianIncome": 825,
+    "meanIncome": 1021,
+    "pop2021": "211400.7080"
+  },
+  {
+    "country": "Uganda",
+    "medianIncome": 804,
+    "meanIncome": 1166,
+    "pop2021": "47123.5310"
+  },
+  {
+    "country": "South Sudan",
+    "medianIncome": 793,
+    "meanIncome": 1121,
+    "pop2021": "11381.3780"
+  },
+  {
+    "country": "Sierra Leone",
+    "medianIncome": 765,
+    "meanIncome": 1004,
+    "pop2021": "8141.3430"
+  },
+  {
+    "country": "Liberia",
+    "medianIncome": 753,
+    "meanIncome": 945,
+    "pop2021": "5180.2030"
+  },
+  {
+    "country": "Burkina Faso",
+    "medianIncome": 748,
+    "meanIncome": 1002,
+    "pop2021": "21497.0960"
+  },
+  {
+    "country": "Niger",
+    "medianIncome": 738,
+    "meanIncome": 937,
+    "pop2021": "25130.8170"
+  },
+  {
+    "country": "Turkmenistan",
+    "medianIncome": 706,
+    "meanIncome": 963,
+    "pop2021": "6117.9240"
+  },
+  {
+    "country": "Tanzania",
+    "medianIncome": 702,
+    "meanIncome": 992,
+    "pop2021": "61498.4370"
+  },
+  {
+    "country": "Benin",
+    "medianIncome": 699,
+    "meanIncome": 989,
+    "pop2021": "12451.0400"
+  },
+  {
+    "country": "Mali",
+    "medianIncome": 689,
+    "meanIncome": 861,
+    "pop2021": "20855.7350"
+  },
+  {
+    "country": "Togo",
+    "medianIncome": 683,
+    "meanIncome": 964,
+    "pop2021": "8478.2500"
+  },
+  {
+    "country": "Angola",
+    "medianIncome": 665,
+    "meanIncome": 1066,
+    "pop2021": "33933.6100"
+  },
+  {
+    "country": "Rwanda",
+    "medianIncome": 621,
+    "meanIncome": 925,
+    "pop2021": "13276.5130"
+  },
+  {
+    "country": "Uzbekistan",
+    "medianIncome": 591,
+    "meanIncome": 752,
+    "pop2021": "33935.7630"
+  },
+  {
+    "country": "Zambia",
+    "medianIncome": 545,
+    "meanIncome": 1045,
+    "pop2021": "18920.6510"
+  },
+  {
+    "country": "Mozambique",
+    "medianIncome": 529,
+    "meanIncome": 947,
+    "pop2021": "32163.0470"
+  },
+  {
+    "country": "Central African Republic",
+    "medianIncome": 491,
+    "meanIncome": 891,
+    "pop2021": "4919.9810"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "medianIncome": 486,
+    "meanIncome": 797,
+    "pop2021": "2015.4940"
+  },
+  {
+    "country": "Malawi",
+    "medianIncome": 484,
+    "meanIncome": 733,
+    "pop2021": "19647.6840"
+  },
+  {
+    "country": "Burundi",
+    "medianIncome": 475,
+    "meanIncome": 640,
+    "pop2021": "12255.4330"
+  },
+  {
+    "country": "Madagascar",
+    "medianIncome": 398,
+    "meanIncome": 567,
+    "pop2021": "28427.3280"
+  },
+  {
+    "country": "DR Congo",
+    "medianIncome": 395,
+    "meanIncome": 548,
+    "pop2021": "92377.9930"
+  },
+  {
+    "country": "India",
+    "medianIncome": 0,
+    "meanIncome": 1314,
+    "pop2021": "1393409.0380"
+  },
+  {
+    "country": "China",
+    "medianIncome": 0,
+    "meanIncome": 4246,
+    "pop2021": "1444216.1070"
+  }
+]
