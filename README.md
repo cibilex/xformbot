@@ -1,7 +1,7 @@
 # xformbot
 can help you to create,answer and publish form on telegram
 
-demo : https://telegramformbot.herokuapp.com/
+demo : https://xformbot-b0b06e555ec7.herokuapp.com//
 
 
 :relaxed:
