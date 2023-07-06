@@ -294,7 +294,6 @@ app.use(express.static("public"))
 app.use(express.static("views"))
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-// app.use(cookieParser());
 app.use(require("./routers/main"))
 app.use(history({
   disableDotRule: true,
