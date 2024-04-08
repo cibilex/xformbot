@@ -283,7 +283,7 @@ bot.command("/myforms", async (ctx) => {
     "<b>Your forms 💨</b>",
     Markup.inlineKeyboard([...docList], { wrap: () => true })
   );
-  const url = `https://xformbot-b0b06e555ec7.herokuapp.com/${ctx.message.from.id}`;
+  const url = `https://xformbot-99e5f167b824.herokuapp.com/${ctx.message.from.id}`;
   return ctx.replyWithHTML(`
  ➜ please click title to publish the form
  
