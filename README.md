@@ -8,5 +8,5 @@ FormBot revolutionizes the way you interact with forms on Telegram. Seamlessly c
 Technologies Utilized: Vue, Quasar, Node.js, Firebase, Telegraf, HTML, CSS
 
 Demo :
-https://xformbot-77b95c677b68.herokuapp.com/
+https://xformbot.onrender.com/
 
