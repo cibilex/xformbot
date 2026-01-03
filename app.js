@@ -1,4 +1,4 @@
-require("dotenv").config({ path: "./helpers/.env" });
+require("dotenv").config({ path: "./.env" });
 const express = require("express");
 const { Telegraf, Markup, Scenes, session } = require("telegraf");
 const { addQuestion, addAnswer } = require("./controllers/addOperations");

@@ -1,12 +1,11 @@
 const { firestore } = require('firebase-admin');
-const { initializeApp, applicationDefault, cert } = require('firebase-admin/app');
-const { getFirestore, Timestamp, FieldValue } = require('firebase-admin/firestore');
-const serviceAccount = require("../serviceAccountKey.json");
+const { initializeApp, cert } = require('firebase-admin/app');
+const { getFirestore } = require('firebase-admin/firestore');
+
+const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
 
 initializeApp({
   credential: cert(serviceAccount)
 });
 const db = getFirestore();
-const addUser=(peyload)=>{
-}
 module.exports={db,firestore}
