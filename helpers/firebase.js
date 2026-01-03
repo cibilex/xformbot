@@ -1,8 +1,12 @@
 const { firestore } = require('firebase-admin');
-const { initializeApp, cert } = require('firebase-admin/app');
-const { getFirestore } = require('firebase-admin/firestore');
+const { initializeApp, applicationDefault, cert } = require('firebase-admin/app');
+const { getFirestore, Timestamp, FieldValue } = require('firebase-admin/firestore');
 
-const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
+let serviceAccount = process.env.FIREBASE_SERVICE_ACCOUNT;
+if (serviceAccount.startsWith("'") && serviceAccount.endsWith("'")) {
+  serviceAccount = serviceAccount.slice(1, -1);
+}
+serviceAccount = JSON.parse(serviceAccount);
 
 initializeApp({
   credential: cert(serviceAccount)
