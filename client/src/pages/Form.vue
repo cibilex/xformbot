@@ -153,7 +153,7 @@ const answerDeleted = async () => {
               icon="icon-fa-twitter-square-brands"
               :href="`https://twitter.com/intent/tweet?url=t.me/x_form_bot?start=${
                 $route.params.id
-              }&text=Hi there,click this link to fill the form%0aForm title : ${title.toUpperCase()}%0a&hashtags=xformbot,form,telegram`"
+              }&text=Hi there,click this link to fill the form%0aForm title : ${title.toUpperCase()}%0a&hashtags=xform,form,telegram`"
             ></q-btn>
             <q-btn
               outline
@@ -189,7 +189,7 @@ const answerDeleted = async () => {
               icon="icon-fa-telegram-brands"
               :href="`tg://msg_url?url=t.me/x_form_bot?start=${
                 $route.params.id
-              }&text=Hi there,click this link to fill the form%0aForm title : ${title.toUpperCase()}%0a&hashtags=xformbot,form,telegram`"
+              }&text=Hi there,click this link to fill the form%0aForm title : ${title.toUpperCase()}%0a&hashtags=xform,form,telegram`"
             ></q-btn>
           </div>
         </q-card-section>

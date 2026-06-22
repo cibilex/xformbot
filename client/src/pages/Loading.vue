@@ -14,7 +14,7 @@ if(index>4)index=0
 <q-page>
         <div class="fullscreen column justify-around items-center" id="loading">
 
-                             <h1 style="font-family: 'Tourney', cursive;" class="text-h3 text-grey-1"> xFormBot</h1>
+                             <h1 style="font-family: 'Tourney', cursive;" class="text-h3 text-grey-1"> xform</h1>
  
 
            <q-spinner-cube   :color="iconColor" size="12em"  />

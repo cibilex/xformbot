@@ -1,4 +1,4 @@
-# XFormBot
+# xform
 
 
 Introducing FormBot – Your Ultimate Telegram Companion for Effortless Form Creation, Sharing, and Management!
@@ -8,5 +8,5 @@ FormBot revolutionizes the way you interact with forms on Telegram. Seamlessly c
 Technologies Utilized: Vue, Quasar, Node.js, Firebase, Telegraf, HTML, CSS
 
 Demo :
-https://xformbot.cibilex.fun/
+https://xform.cibilex.fun/
 

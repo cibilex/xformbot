@@ -14,7 +14,7 @@
         <span v-if="$q.screen.gt.md"></span>
         <div>
           <h1 style="font-size: 2.5rem; line-height: 3.2rem">
-            xFormBot helps you to create a form on Telegram and send it to
+            xform helps you to create a form on Telegram and send it to
             someone to fill out.
           </h1>
           <p style="font-size: 1.3rem" class="q-mt-sm">
